@@ -1,2 +1,2 @@
 # Ralph-The-Arranger
-Simple drag &amp; drop HTML/JS game.
+To play the game simply host the project on a live server.
